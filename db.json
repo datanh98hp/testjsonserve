@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server 2",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC restairant",
+      "address": "Le Hong Phong - Hai Phong",
+      "email": "kfchaiphong@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "KFC restairant",
+      "address": "Le Hong Phong - Hai Phong",
+      "email": "kfchaiphong@mail.com"
+    },
+    {
+      "name": "Dat Anh",
+      "email": "dat198hp@gmail.com",
+      "address": "An Lão - Hải Phòng",
+      "id": 7
+    },
+    {
+      "name": "add name",
+      "email": "testadd@mail.com",
+      "address": "123 - NQ - AL - Hải Phòng",
+      "id": 8
+    },
+    {
+      "name": "new Resto",
+      "email": "new@mail.com",
+      "address": "new add - HP",
+      "id": 9
+    }
+  ]
+}
